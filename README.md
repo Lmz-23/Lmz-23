@@ -1,12 +1,9 @@
-<!<h3 align="center">
+<h3 align="center">
   Hello! 👋 I'm Leonardo Muñoz
 </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/leonardomuñoz-50a45a365/">
+  <a href="https://www.linkedin.com/in/leonardo-mu%C3%B1oz-50a45a365/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:Leomudom04@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 <p align="center">
