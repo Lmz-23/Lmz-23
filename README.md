@@ -1,19 +1,23 @@
 <h3 align="center">
   Hello! 👋 I'm Leonardo Muñoz
 </h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/leonardo-mu%C3%B1oz-50a45a365/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
+
 <p align="center">
-  I'm an Electronic Engineer and Full-Stack Developer focused on backend systems, cloud infrastructure, and IoT automation.
+  Electronic Engineer & Full-Stack Developer focused on backend systems, cloud infrastructure, and IoT automation.<br>
+  Building real products from scratch — SaaS platforms, smart home solutions, and desktop apps.
 </p>
+
 ---
- 
+
 <table align="center">
   <tr>
-    <td><b>🧑🏻‍💻 Programming and markup languages</b></td>
+    <td><b>🧑🏻‍💻 Programming languages</b></td>
     <td>
       <p>
         <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -31,18 +35,23 @@
       <p>
         <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white"/>
         <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/electron-%2347848F.svg?style=for-the-badge&logo=electron&logoColor=white"/>
+        <img src="https://img.shields.io/badge/prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white"/>
       </p>
     </td>
   </tr>
   <tr>
-    <td><b>🗄️ Databases and cloud hosting</b></td>
+    <td><b>🗄️ Databases and cloud</b></td>
     <td>
       <p>
         <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
         <img src="https://img.shields.io/badge/AWS_EC2-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white"/>
         <img src="https://img.shields.io/badge/AWS_RDS-%23527FFF.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/AWS_S3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white"/>
