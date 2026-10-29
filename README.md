@@ -95,3 +95,14 @@
     </td>
   </tr>
 </table>
+
+---
+
+<h3 align="center">🚀 Featured projects</h3>
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Financial Flow**](https://github.com/Lmz-23/Financial_Flow) | Offline-first personal finance app for Android: accounts, transfers, debts with amortization, savings goals, recurring payments with local notifications, and cash-flow reports. Pure domain layer with 1,100+ tests, including property-based and AST ownership guards. | Expo · TypeScript · SQLite · Drizzle |
+| [**Slate**](https://github.com/Lmz-23/slate-app) | Daily task manager with streak-based gamification. 100% offline, ready for cloud sync. | Flutter · Riverpod · Hive |
+| [**SAMS**](https://github.com/Lmz-23/spatial-agent-management-system) | Multi-tenant platform to visualize and manage agents inside a shared real-time 2D virtual office. | TypeScript · PixiJS · Prisma · Vite |
+| [**Chatbot WP**](https://github.com/Lmz-23/chatbot-wp) · [frontend](https://github.com/Lmz-23/chatbot-wp-frontend) | WhatsApp Business Cloud API chatbot SaaS: webhook server plus a multi-tenant Next.js dashboard with JWT auth. | Node.js · Express · Next.js |
